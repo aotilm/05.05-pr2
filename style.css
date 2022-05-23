@@ -1,0 +1,63 @@
+body {
+}
+
+.block_1 {
+	position: relative;
+	width: 50%;
+	height: 60px;
+	background-color: gray;
+	top: 0;
+	float: left;
+
+}
+
+.block_2 {
+	position: relative;
+	width: 50%;
+	height: 60px;
+	background-color: orange;
+	left: 50%;
+	top: 0;
+}
+
+.block_3 {
+	width: 30%;
+	height: 480px;
+	background-color: blue;
+	position: relative;
+	float: left
+}
+
+.block_4 {
+	width: 70%;
+	height: 480px;
+	background-color: yellow;
+	left: 30%;
+	position: relative;
+}
+
+.block_41 {
+	width: 30%;
+	height: 15%;
+	background-color: pink;
+	position: absolute;
+	top: 50px;
+	right: 50px;
+	z-index: 1;
+	
+}
+
+.block_42 {
+	width: 30%;
+	height: 15%;
+	background-color: orange;
+	position: absolute;
+	top: 25px;
+	right: 75px;
+}
+
+.block_5 {
+	height: 60px;
+	background-color: green;
+
+}
